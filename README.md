@@ -113,4 +113,4 @@ Sales-Analysis-Dashboard
 
 ---
 
-⭐ If you found this project useful, consider giving it a **Star** on GitHub!
+This project is currently under development. Additional files, dashboards, SQL scripts, and documentation will be added soon.
